@@ -2,18 +2,18 @@
 
 // Préfixes pour les appareils spécifiques au navire
 const PREFIXES = {
-  APPAREIL_PREFIX: '',
-  CABLE_PREFIX: ''
+  APPAREIL_PREFIX: 'E35-',
+  CABLE_PREFIX: 'E35-C'
 };
 
 // Lien pour télécharger le fichier NEC spécifique au navire
 const LINKS = {
-  NEC_DOWNLOAD: 'https://share.chantiers-atlantique.com/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/08213d03-1f34-4cb6-b1c8-ac94778059b8/Extraction_NEC_N34.xlsb?a=true'
+  NEC_DOWNLOAD: 'https://share.chantiers-atlantique.com/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/f900fdae-655d-4975-9cab-67e7c7ed381c/Extraction_NEC_E35.xlsx?a=true'
 };
 
 // Nom du navire
 const SHIP = {
-  NAME: 'N34'
+  NAME: 'E35'
 };
 
 // Colonnes à utiliser dans les différentes pages
