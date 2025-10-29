@@ -3,7 +3,7 @@
 // Préfixes pour les appareils spécifiques au navire
 const PREFIXES = {
   APPAREIL_PREFIX: 'E35-',
-  CABLE_PREFIX: 'E35-C'
+  CABLE_PREFIX: 'E35-C-'
 };
 
 // Lien pour télécharger le fichier NEC spécifique au navire
