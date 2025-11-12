@@ -65,7 +65,7 @@
   },
   {
     "CBL": "E35-C-01EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-01EO1",
@@ -465,7 +465,7 @@
   },
   {
     "CBL": "E35-C-01TE4041",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-01TE5011",
@@ -473,7 +473,7 @@
   },
   {
     "CBL": "E35-C-01TE5031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-01TE5041",
@@ -581,7 +581,7 @@
   },
   {
     "CBL": "E35-C-01TRHOP",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-02APB1",
@@ -605,7 +605,7 @@
   },
   {
     "CBL": "E35-C-02EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-02EO1",
@@ -1013,7 +1013,7 @@
   },
   {
     "CBL": "E35-C-02TE4041",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-02TE5011",
@@ -1021,7 +1021,7 @@
   },
   {
     "CBL": "E35-C-02TE5031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-02TE5041",
@@ -1073,7 +1073,7 @@
   },
   {
     "CBL": "E35-C-02TO4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-02TO4201",
@@ -1129,7 +1129,7 @@
   },
   {
     "CBL": "E35-C-02TPEH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-03ACR10",
@@ -1157,7 +1157,7 @@
   },
   {
     "CBL": "E35-C-03EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-03EO1",
@@ -1249,7 +1249,7 @@
   },
   {
     "CBL": "E35-C-03ET5031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-03ET5061",
@@ -1577,7 +1577,7 @@
   },
   {
     "CBL": "E35-C-04EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-04EO1A",
@@ -2001,7 +2001,7 @@
   },
   {
     "CBL": "E35-C-05EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-05EO1A",
@@ -2045,7 +2045,7 @@
   },
   {
     "CBL": "E35-C-05ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-05ET4101",
@@ -2449,7 +2449,7 @@
   },
   {
     "CBL": "E35-C-06EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-06EO1A",
@@ -2497,7 +2497,7 @@
   },
   {
     "CBL": "E35-C-06ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-06ET4101",
@@ -2925,7 +2925,7 @@
   },
   {
     "CBL": "E35-C-07EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-07EO1A",
@@ -3344,6 +3344,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-08APB1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-08APB2",
     "STT_CBL_BORD": ""
   },
@@ -3389,7 +3393,7 @@
   },
   {
     "CBL": "E35-C-08EH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-08EO1A",
@@ -3429,6 +3433,10 @@
   },
   {
     "CBL": "E35-C-08ET4101",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-08ET4401",
     "STT_CBL_BORD": ""
   },
   {
@@ -3768,6 +3776,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-09ET4401",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-09ET4SC1",
     "STT_CBL_BORD": ""
   },
@@ -4100,11 +4112,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-101ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-101ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-101ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-101ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-101ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-101ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -5460,8 +5488,12 @@
     "STT_CBL_BORD": ""
   },
   {
-    "CBL": "E35-C-13ET4031",
+    "CBL": "E35-C-13ET4001",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-13ET4031",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-13ET4101",
@@ -5705,7 +5737,7 @@
   },
   {
     "CBL": "E35-C-14ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-14ET4101",
@@ -5957,7 +5989,7 @@
   },
   {
     "CBL": "E35-C-15ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-15ET4101",
@@ -6501,7 +6533,7 @@
   },
   {
     "CBL": "E35-C-17ET5031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-17ET5041",
@@ -6708,6 +6740,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-18ET5201",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-18ET5SC2",
     "STT_CBL_BORD": ""
   },
@@ -6873,6 +6909,10 @@
   },
   {
     "CBL": "E35-C-19ET5061",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-19ET5201",
     "STT_CBL_BORD": ""
   },
   {
@@ -7125,6 +7165,10 @@
   },
   {
     "CBL": "E35-C-201ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-201ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -7812,6 +7856,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-202TV10",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-203ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-203ACB01",
     "STT_CBL_BORD": ""
   },
@@ -7820,7 +7872,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-203ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-203ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-203ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -8220,6 +8280,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-204ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-204ACB09",
     "STT_CBL_BORD": ""
   },
@@ -8260,11 +8324,23 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-205ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-205ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-205ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-205ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-205ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -8308,11 +8384,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-206ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-206ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-206ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-206ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-206ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-206ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -8336,7 +8428,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-207ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-208ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-208ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-208ACB02",
     "STT_CBL_BORD": ""
   },
   {
@@ -8356,7 +8460,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB03",
     "STT_CBL_BORD": ""
   },
   {
@@ -8368,7 +8484,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB04",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB05",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB05",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB06",
     "STT_CBL_BORD": ""
   },
   {
@@ -8380,7 +8508,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB07",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB09",
     "STT_CBL_BORD": ""
   },
   {
@@ -8392,7 +8532,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB10",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB12",
     "STT_CBL_BORD": ""
   },
   {
@@ -8404,7 +8556,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB13",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB14",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB14",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB15",
     "STT_CBL_BORD": ""
   },
   {
@@ -8416,6 +8580,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB16",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB17",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB17",
     "STT_CBL_BORD": ""
   },
@@ -8424,7 +8596,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-209ACB18",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-209ACB19",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB19",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACB20",
     "STT_CBL_BORD": ""
   },
   {
@@ -8573,6 +8757,10 @@
   },
   {
     "CBL": "E35-C-209ACP22",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-209ACP23",
     "STT_CBL_BORD": ""
   },
   {
@@ -8848,7 +9036,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-211ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-211ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-211ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -8892,11 +9088,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-214ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-214ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-214ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-214ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-214ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-214ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -10072,6 +10284,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-260ACPE4",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-260BCPE1",
     "STT_CBL_BORD": ""
   },
@@ -10081,6 +10297,10 @@
   },
   {
     "CBL": "E35-C-260BCPE3",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-260BCPE4",
     "STT_CBL_BORD": ""
   },
   {
@@ -10552,11 +10772,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-301ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-301ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-301ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-301ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-301ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-301ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -11256,11 +11492,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-303ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-303ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-303ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-303ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-303ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-303ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -11317,7 +11569,7 @@
   },
   {
     "CBL": "E35-C-30ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-30ET4SC1",
@@ -11384,11 +11636,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-311ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-311ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-311ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-311ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-311ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-311ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -11425,7 +11693,7 @@
   },
   {
     "CBL": "E35-C-31ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-31ET4SC1",
@@ -11721,7 +11989,7 @@
   },
   {
     "CBL": "E35-C-34ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-34ET4SC1",
@@ -11805,7 +12073,7 @@
   },
   {
     "CBL": "E35-C-35ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-35ET4SC1",
@@ -11953,7 +12221,7 @@
   },
   {
     "CBL": "E35-C-37ET4031",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-37ET5002",
@@ -12972,6 +13240,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-401TV11",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-402ACB01",
     "STT_CBL_BORD": ""
   },
@@ -12981,6 +13253,10 @@
   },
   {
     "CBL": "E35-C-402ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-402ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -13056,6 +13332,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-403ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-403ACB09",
     "STT_CBL_BORD": ""
   },
@@ -13065,6 +13345,10 @@
   },
   {
     "CBL": "E35-C-403ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-403ACB16",
     "STT_CBL_BORD": ""
   },
   {
@@ -13148,6 +13432,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-405ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-405ACB09",
     "STT_CBL_BORD": ""
   },
@@ -13157,6 +13445,10 @@
   },
   {
     "CBL": "E35-C-405ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-405ACB16",
     "STT_CBL_BORD": ""
   },
   {
@@ -13176,7 +13468,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-406ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-406ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-406ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-406ACB03",
     "STT_CBL_BORD": ""
   },
   {
@@ -13188,7 +13492,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-406ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-408ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-408ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-408ACB02",
     "STT_CBL_BORD": ""
   },
   {
@@ -13200,7 +13516,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-408ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-408ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-408ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-409ACB01",
     "STT_CBL_BORD": ""
   },
   {
@@ -13212,7 +13540,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-409ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-409ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-409ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-409ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -13292,16 +13632,32 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-411ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-411ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-411ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-411ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-411ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-411ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-411ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-41APB2",
@@ -13481,6 +13837,10 @@
   },
   {
     "CBL": "E35-C-44ET5002",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-44ET5061",
     "STT_CBL_BORD": ""
   },
   {
@@ -13788,6 +14148,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-501ACM09",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-501ACM10",
     "STT_CBL_BORD": ""
   },
@@ -13801,6 +14165,10 @@
   },
   {
     "CBL": "E35-C-501ACM14",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-501ACM15",
     "STT_CBL_BORD": ""
   },
   {
@@ -13825,6 +14193,10 @@
   },
   {
     "CBL": "E35-C-501ACM20",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-501ACM21",
     "STT_CBL_BORD": ""
   },
   {
@@ -13897,6 +14269,14 @@
   },
   {
     "CBL": "E35-C-501ACM36",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-501ACM36",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-501ACM37",
     "STT_CBL_BORD": ""
   },
   {
@@ -14576,6 +14956,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-501TV11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-502ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-502ACB01",
     "STT_CBL_BORD": ""
   },
@@ -14584,7 +14972,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-502ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-502ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-502ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-502ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -14685,6 +15085,14 @@
   },
   {
     "CBL": "E35-C-502ACJ22",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-502ACJ23",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-502ACJ24",
     "STT_CBL_BORD": ""
   },
   {
@@ -15336,11 +15744,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-503ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-503ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-503ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-503ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-503ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-503ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -15464,7 +15888,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-505ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-505ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-505ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-505ACB03",
     "STT_CBL_BORD": ""
   },
   {
@@ -15492,6 +15928,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-506ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-506ACB09",
     "STT_CBL_BORD": ""
   },
@@ -15501,6 +15941,10 @@
   },
   {
     "CBL": "E35-C-506ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-506ACB16",
     "STT_CBL_BORD": ""
   },
   {
@@ -15584,11 +16028,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-510ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-510ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-510ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-510ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-510ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-510ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -15616,47 +16076,99 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-511ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-511ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-511ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-511ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-511ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-511ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-511ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-512ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-512ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-512ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-512ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-512ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-512ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-512ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-512ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-513ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-513ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-513ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-513ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-513ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-513ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-513ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-513ACB08",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-514TV10",
     "STT_CBL_BORD": ""
   },
   {
@@ -15668,48 +16180,96 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-517ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-517ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-517ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-517ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-517ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-517ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-517ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-518ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-518ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-518ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-518ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-518ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-518ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-518ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-518ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-519ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-519ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-519ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-519ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-519ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-519ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-519ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-519ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-51APB1",
@@ -15736,7 +16296,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB03",
     "STT_CBL_BORD": ""
   },
   {
@@ -15748,11 +16320,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB04",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB05",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB05",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB06",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB06",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-520ACB07",
     "STT_CBL_BORD": ""
   },
   {
@@ -15764,7 +16352,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB09",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB09",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-520ACB10",
     "STT_CBL_BORD": ""
   },
   {
@@ -15776,7 +16376,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB11",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB12",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB12",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-520ACB13",
     "STT_CBL_BORD": ""
   },
   {
@@ -15788,8 +16400,16 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB14",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB15",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB15",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB16",
@@ -15812,60 +16432,120 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB20",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB21",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB21",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB22",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB22",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB23",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB23",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB24",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB24",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB25",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB25",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB26",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB26",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB27",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB27",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB28",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB28",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB29",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB29",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB30",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB30",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB31",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB31",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB32",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB32",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB33",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB33",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB34",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB34",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-520ACB35",
@@ -15892,11 +16572,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB40",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB41",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-520ACB41",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-520ACB42",
     "STT_CBL_BORD": ""
   },
   {
@@ -15908,7 +16596,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB43",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB44",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB44",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB45",
     "STT_CBL_BORD": ""
   },
   {
@@ -15920,7 +16620,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB46",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB47",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB47",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB48",
     "STT_CBL_BORD": ""
   },
   {
@@ -15933,6 +16645,10 @@
   },
   {
     "CBL": "E35-C-520ACB49",
+    "STT_CBL_BORD": "T"
+  },
+  {
+    "CBL": "E35-C-520ACB50",
     "STT_CBL_BORD": ""
   },
   {
@@ -15944,11 +16660,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB51",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-520ACB52",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-520ACB52",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-520ACB53",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB53",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-520ACB54",
     "STT_CBL_BORD": ""
   },
   {
@@ -15976,32 +16708,64 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-521ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-521ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-521ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-521ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-521ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-521ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-521ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-522ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-522ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-522ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-522ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-522ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-522ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-522ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-522ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-523ACB01",
@@ -16013,6 +16777,10 @@
   },
   {
     "CBL": "E35-C-523ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-523ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -16040,7 +16808,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-524ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-524ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-524ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-524ACB03",
     "STT_CBL_BORD": ""
   },
   {
@@ -16052,7 +16832,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-524ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-526ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-526ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-526ACB02",
     "STT_CBL_BORD": ""
   },
   {
@@ -16064,6 +16856,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-526ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-526ACB08",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-526ACB08",
     "STT_CBL_BORD": ""
   },
@@ -16072,32 +16872,64 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-528ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-528ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-528ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-528ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-528ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-528ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-528ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-529ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-529ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-529ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-529ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-529ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-529ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-529ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-529ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-52APB1",
@@ -16132,32 +16964,64 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-530ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-530ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-530ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-530ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-530ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-530ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-530ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-534ACB01",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-534ACB01",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-534ACB02",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-534ACB02",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-534ACB03",
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-534ACB03",
+    "STT_CBL_BORD": "T"
+  },
+  {
     "CBL": "E35-C-534ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-534ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-53APB1",
@@ -16225,7 +17089,7 @@
   },
   {
     "CBL": "E35-C-543ACB01",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-543ACB02",
@@ -16233,7 +17097,7 @@
   },
   {
     "CBL": "E35-C-543ACB02",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-543ACB03",
@@ -16241,11 +17105,15 @@
   },
   {
     "CBL": "E35-C-543ACB03",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-543ACB08",
     "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-543ACB08",
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-543CPE1",
@@ -16672,11 +17540,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-601ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-601ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-601ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-601ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-601ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-601ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -17040,11 +17924,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-602ACB01",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-602ACB02",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-602ACB02",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-602ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-602ACB03",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-602ACB08",
     "STT_CBL_BORD": ""
   },
   {
@@ -19149,67 +20049,67 @@
   },
   {
     "CBL": "E35-C-A1T54AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54AAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T54ABJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A1T56AA",
@@ -20125,19 +21025,19 @@
   },
   {
     "CBL": "E35-C-A2T54AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAE",
@@ -20145,39 +21045,39 @@
   },
   {
     "CBL": "E35-C-A2T54AAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAI",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54AAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54ABB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54ABC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A2T54E",
@@ -21453,7 +22353,7 @@
   },
   {
     "CBL": "E35-C-A4L53ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L53ABB",
@@ -21473,23 +22373,23 @@
   },
   {
     "CBL": "E35-C-A4L54AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L54AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L54B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L54BAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L54BAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A4L64A",
@@ -22125,35 +23025,35 @@
   },
   {
     "CBL": "E35-C-A5L53A",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ABB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ACA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ACB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ACC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L53ADA",
@@ -22217,27 +23117,27 @@
   },
   {
     "CBL": "E35-C-A5L54AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L54AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L54AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L54AAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L54AAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L54ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5L64A",
@@ -22669,15 +23569,15 @@
   },
   {
     "CBL": "E35-C-A5T53AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5T53AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5T53AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A5T53AAD",
@@ -23745,11 +24645,11 @@
   },
   {
     "CBL": "E35-C-A7L44AB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L44ABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L44BA",
@@ -23757,19 +24657,19 @@
   },
   {
     "CBL": "E35-C-A7L44BB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L44BBA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L44BBB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L44BBC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7L51A",
@@ -24133,19 +25033,19 @@
   },
   {
     "CBL": "E35-C-A7T53AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7T53AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7T53AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7T53AAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A7T53ABA",
@@ -24393,55 +25293,55 @@
   },
   {
     "CBL": "E35-C-A8L53A",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53C",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53F",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53G",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53H",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53J",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53K",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53L",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53M",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L53N",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-A8L54A",
@@ -27669,7 +28569,7 @@
   },
   {
     "CBL": "E35-C-B3T43AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-B3T43B",
@@ -27677,7 +28577,7 @@
   },
   {
     "CBL": "E35-C-B3T43BAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-B3T50A",
@@ -28973,7 +29873,7 @@
   },
   {
     "CBL": "E35-C-B7T43AAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-B7T50A",
@@ -29400,6 +30300,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-BH50206",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-BH50207",
     "STT_CBL_BORD": ""
   },
@@ -29445,6 +30349,10 @@
   },
   {
     "CBL": "E35-C-BH50223",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-BH50225",
     "STT_CBL_BORD": ""
   },
   {
@@ -32149,7 +33057,7 @@
   },
   {
     "CBL": "E35-C-CE030009",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030014",
@@ -32157,31 +33065,31 @@
   },
   {
     "CBL": "E35-C-CE030016",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030017",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030041",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030047",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030050",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030051",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030053",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE030058",
@@ -32937,19 +33845,19 @@
   },
   {
     "CBL": "E35-C-CE2912",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE2920",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE2921",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE2922",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CE2931",
@@ -33041,6 +33949,14 @@
   },
   {
     "CBL": "E35-C-CE3110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CE3110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CE3111",
     "STT_CBL_BORD": ""
   },
   {
@@ -33664,6 +34580,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-CE3943",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-CE3944",
     "STT_CBL_BORD": ""
   },
@@ -33772,11 +34692,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-CES10",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-CES11",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-CES12",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CES13",
     "STT_CBL_BORD": ""
   },
   {
@@ -33820,11 +34748,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-CES22",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-CES23",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-CES24",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CES25",
     "STT_CBL_BORD": ""
   },
   {
@@ -33841,7 +34777,7 @@
   },
   {
     "CBL": "E35-C-CES29",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-CES30",
@@ -34009,6 +34945,10 @@
   },
   {
     "CBL": "E35-C-CES72RM",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CES73",
     "STT_CBL_BORD": ""
   },
   {
@@ -34365,6 +35305,14 @@
   },
   {
     "CBL": "E35-C-CI2715",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CI2715",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-CI2716",
     "STT_CBL_BORD": ""
   },
   {
@@ -37024,6 +37972,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-DCCPBIT",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-DCCSWCE",
     "STT_CBL_BORD": ""
   },
@@ -37401,31 +38353,31 @@
   },
   {
     "CBL": "E35-C-DI202008",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202009",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202010",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202011",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202012",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202013",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202014",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202015",
@@ -37433,23 +38385,23 @@
   },
   {
     "CBL": "E35-C-DI202016",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202017",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202018",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202019",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202020",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-DI202021",
@@ -42480,11 +43432,23 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-DN600018",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-DN600019",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-DN600020",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-DN600020",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-DN600021",
     "STT_CBL_BORD": ""
   },
   {
@@ -42613,6 +43577,14 @@
   },
   {
     "CBL": "E35-C-DNT23EB2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-DNT23EB2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-DNT23EB3",
     "STT_CBL_BORD": ""
   },
   {
@@ -43669,19 +44641,19 @@
   },
   {
     "CBL": "E35-C-E2AL44B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AL44C",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AL44D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AL44E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AL51A",
@@ -43917,7 +44889,7 @@
   },
   {
     "CBL": "E35-C-E2AO50AA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AO50AB",
@@ -44013,7 +44985,7 @@
   },
   {
     "CBL": "E35-C-E2AT53AA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2AT53AB",
@@ -44065,7 +45037,7 @@
   },
   {
     "CBL": "E35-C-E2BL44B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E2BO43A",
@@ -44425,7 +45397,7 @@
   },
   {
     "CBL": "E35-C-E3AO43B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E3AO50A",
@@ -44705,19 +45677,19 @@
   },
   {
     "CBL": "E35-C-E4AL3VB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E4AL3VC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E4AL3VD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E4AL3VE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E4AL44A",
@@ -45201,19 +46173,19 @@
   },
   {
     "CBL": "E35-C-E5AL3VB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL3VC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL3VD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL3VE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL44A",
@@ -45221,19 +46193,19 @@
   },
   {
     "CBL": "E35-C-E5AL44B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL44C",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL44D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL44E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E5AL51A",
@@ -45773,35 +46745,35 @@
   },
   {
     "CBL": "E35-C-E6AL54AA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54AB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54BA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54CA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54CB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54CC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54DA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL54DB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E6AL5BA",
@@ -46425,31 +47397,31 @@
   },
   {
     "CBL": "E35-C-E8AL44B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44C",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44F",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44G",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL44H",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E8AL53A",
@@ -46733,31 +47705,31 @@
   },
   {
     "CBL": "E35-C-E9AL44B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44C",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44F",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44G",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL44H",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-E9AL51A",
@@ -47161,6 +48133,14 @@
   },
   {
     "CBL": "E35-C-EP610181",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-EP610181",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-EP610182",
     "STT_CBL_BORD": ""
   },
   {
@@ -49220,6 +50200,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-ESDF01A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-ESDF01B",
     "STT_CBL_BORD": ""
   },
@@ -49228,7 +50212,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-ESDF02A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-ESDF02B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDF03A",
     "STT_CBL_BORD": ""
   },
   {
@@ -49253,6 +50245,10 @@
   },
   {
     "CBL": "E35-C-ESDF05B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDF06A",
     "STT_CBL_BORD": ""
   },
   {
@@ -49293,6 +50289,10 @@
   },
   {
     "CBL": "E35-C-ESDF10B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDF11A",
     "STT_CBL_BORD": ""
   },
   {
@@ -49444,6 +50444,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-ESDL41A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-ESDL41B",
     "STT_CBL_BORD": ""
   },
@@ -49465,6 +50469,14 @@
   },
   {
     "CBL": "E35-C-ESDL45",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDL45",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDL46",
     "STT_CBL_BORD": ""
   },
   {
@@ -49520,6 +50532,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-ESDRJ01A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-ESDRJ01B",
     "STT_CBL_BORD": ""
   },
@@ -49533,6 +50549,10 @@
   },
   {
     "CBL": "E35-C-ESDRJ02B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-ESDRJ03A",
     "STT_CBL_BORD": ""
   },
   {
@@ -51153,7 +52173,7 @@
   },
   {
     "CBL": "E35-C-F8AO56B",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-F8AT56A",
@@ -51285,7 +52305,7 @@
   },
   {
     "CBL": "E35-C-FCUG528",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-FCUG607",
@@ -51636,7 +52656,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293AB",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV293D1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293D1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293D2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51648,7 +52680,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293DS",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV293F1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293F1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293F2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51660,7 +52704,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV293LS2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293LS2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293ML",
     "STT_CBL_BORD": ""
   },
   {
@@ -51672,7 +52728,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293MT",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV293R1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293R1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293R2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51684,7 +52752,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293ST1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV293ST2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293ST2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV293V1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51696,7 +52776,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV293V2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294AB",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294AB",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294D1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51708,7 +52800,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV294D2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294DS",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294DS",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294F1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51720,7 +52824,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV294F2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294LS2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51732,7 +52848,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV294ML",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294MT",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294MT",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294R1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51744,7 +52872,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV294R2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294ST1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294ST1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294ST2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51756,7 +52896,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV294V1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV294V2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV294V2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296AB1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51768,7 +52920,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296AB2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV296D1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296D1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296D2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51780,7 +52944,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296DS",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV296F1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296F1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296F2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51792,7 +52968,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV296LS2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296LS2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296ML",
     "STT_CBL_BORD": ""
   },
   {
@@ -51804,7 +52992,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296MT",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV296R1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296R1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296R2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51816,7 +53016,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296ST1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV296ST2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296ST2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV296V1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51828,7 +53040,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV296V2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298AB",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298AB",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298D1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51840,7 +53064,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV298D2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298DS",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298DS",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298F1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51852,7 +53088,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV298F2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298LS1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298LS2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51864,7 +53112,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV298ML",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298MT",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298MT",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298R1",
     "STT_CBL_BORD": ""
   },
   {
@@ -51876,6 +53136,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV298R2",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298ST1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298ST1",
     "STT_CBL_BORD": ""
   },
@@ -51884,7 +53152,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV298ST2",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV298V1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298V1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV298V2",
     "STT_CBL_BORD": ""
   },
   {
@@ -51964,6 +53244,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV6641LD",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV6643LD",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV6643LD",
     "STT_CBL_BORD": ""
   },
@@ -52000,6 +53288,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-FV6711LD",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV6712LD",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-FV6712LD",
     "STT_CBL_BORD": ""
   },
@@ -52025,6 +53321,10 @@
   },
   {
     "CBL": "E35-C-FV6721LD",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-FV6733LD",
     "STT_CBL_BORD": ""
   },
   {
@@ -54285,15 +55585,15 @@
   },
   {
     "CBL": "E35-C-H2B0603D",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-H2B0603E",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-H2B0603F",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-H2B0603G",
@@ -57956,6 +59256,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IHP2390Z",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IHP2391Z",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IHP2391Z",
     "STT_CBL_BORD": ""
   },
@@ -58024,6 +59332,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IHP2497Z",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IHP2700Z",
     "STT_CBL_BORD": ""
   },
@@ -58072,6 +59384,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IHP4439P",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IHP5630L",
     "STT_CBL_BORD": ""
   },
@@ -58112,7 +59428,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IHP5725L",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IHP5726L",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IHP5727L",
     "STT_CBL_BORD": ""
   },
   {
@@ -58529,6 +59853,10 @@
   },
   {
     "CBL": "E35-C-IHP6APS",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IHP6BPS",
     "STT_CBL_BORD": ""
   },
   {
@@ -59033,7 +60361,7 @@
   },
   {
     "CBL": "E35-C-ILT2332V",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-ILT2332Z",
@@ -59988,6 +61316,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IT3U11M1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT3U11S1",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IT3U11S1",
     "STT_CBL_BORD": ""
   },
@@ -60185,6 +61521,10 @@
   },
   {
     "CBL": "E35-C-IT5012M1",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5012S1",
     "STT_CBL_BORD": ""
   },
   {
@@ -60416,7 +61756,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IT5V1013",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IT5V1014",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1014",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1015",
     "STT_CBL_BORD": ""
   },
   {
@@ -60428,11 +61780,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IT5V1016",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1017",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IT5V1017",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-IT5V1018",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1018",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1019",
     "STT_CBL_BORD": ""
   },
   {
@@ -60448,11 +61816,23 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-IT5V1020",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-IT5V1021",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-IT5V1021",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1021",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-IT5V1023",
     "STT_CBL_BORD": ""
   },
   {
@@ -61021,15 +62401,15 @@
   },
   {
     "CBL": "E35-C-K1L5VAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1L5VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1L5VAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1L5VAEA",
@@ -61437,27 +62817,27 @@
   },
   {
     "CBL": "E35-C-K1T5TAAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T5TAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T5TAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T5TAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T5TAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T5TABA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K1T64A",
@@ -61689,27 +63069,27 @@
   },
   {
     "CBL": "E35-C-K2L5VAAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAG",
@@ -61717,7 +63097,7 @@
   },
   {
     "CBL": "E35-C-K2L5VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2L5VAAJ",
@@ -62021,11 +63401,11 @@
   },
   {
     "CBL": "E35-C-K2T5TAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAD",
@@ -62033,23 +63413,23 @@
   },
   {
     "CBL": "E35-C-K2T5TAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K2T5TAAK",
@@ -62181,27 +63561,27 @@
   },
   {
     "CBL": "E35-C-K3L5VAAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3L5VAAG",
@@ -62421,39 +63801,39 @@
   },
   {
     "CBL": "E35-C-K3T5TAAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K3T5TAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L20A",
@@ -62597,23 +63977,23 @@
   },
   {
     "CBL": "E35-C-K4L5VAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAG",
@@ -62621,7 +64001,7 @@
   },
   {
     "CBL": "E35-C-K4L5VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAAJ",
@@ -62629,15 +64009,15 @@
   },
   {
     "CBL": "E35-C-K4L5VAAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VACA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4L5VAEA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T20A",
@@ -62749,23 +64129,23 @@
   },
   {
     "CBL": "E35-C-K4T5TAAA",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAF",
@@ -62773,19 +64153,19 @@
   },
   {
     "CBL": "E35-C-K4T5TAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K4T5TAAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L1SA",
@@ -63001,11 +64381,11 @@
   },
   {
     "CBL": "E35-C-K5L5VAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAD",
@@ -63013,11 +64393,11 @@
   },
   {
     "CBL": "E35-C-K5L5VAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAG",
@@ -63025,15 +64405,15 @@
   },
   {
     "CBL": "E35-C-K5L5VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5L5VAAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T1SA",
@@ -63165,19 +64545,19 @@
   },
   {
     "CBL": "E35-C-K5T5TAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T5TAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T5TAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T5TAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T5TAAG",
@@ -63201,7 +64581,7 @@
   },
   {
     "CBL": "E35-C-K5T5TAAM",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K5T5TAAN",
@@ -63357,11 +64737,11 @@
   },
   {
     "CBL": "E35-C-K6L4VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L4VAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L4VAAE",
@@ -63373,19 +64753,19 @@
   },
   {
     "CBL": "E35-C-K6L4VAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L4VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L4VAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L4VAAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5SA",
@@ -63433,39 +64813,39 @@
   },
   {
     "CBL": "E35-C-K6L5VAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAE",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAF",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAG",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAH",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAJ",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6L5VAAK",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K6T4SA",
@@ -63793,15 +65173,15 @@
   },
   {
     "CBL": "E35-C-K7T4SAAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K7T4SAAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K7T4SAAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-K7T4SAAE",
@@ -65161,15 +66541,15 @@
   },
   {
     "CBL": "E35-C-L8L41AAB",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-L8L41AAC",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-L8L41AAD",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-L8L41AAE",
@@ -67312,7 +68692,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20105",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20106",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20106",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20107",
     "STT_CBL_BORD": ""
   },
   {
@@ -67324,7 +68716,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20109",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20111",
     "STT_CBL_BORD": ""
   },
   {
@@ -67336,7 +68740,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20113",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20114",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20114",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20115",
     "STT_CBL_BORD": ""
   },
   {
@@ -67348,7 +68764,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20117",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20118",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20118",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20119",
     "STT_CBL_BORD": ""
   },
   {
@@ -67360,7 +68788,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20123",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20124",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20124",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20125",
     "STT_CBL_BORD": ""
   },
   {
@@ -67372,7 +68812,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI20126",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI20127",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20127",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI20128",
     "STT_CBL_BORD": ""
   },
   {
@@ -67416,7 +68868,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21105",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21106",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21106",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21107",
     "STT_CBL_BORD": ""
   },
   {
@@ -67428,7 +68892,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21109",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21110",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21111",
     "STT_CBL_BORD": ""
   },
   {
@@ -67440,7 +68916,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21113",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21114",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21114",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21115",
     "STT_CBL_BORD": ""
   },
   {
@@ -67452,7 +68940,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21117",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21118",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21118",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21119",
     "STT_CBL_BORD": ""
   },
   {
@@ -67464,7 +68964,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21121",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21122",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21122",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21123",
     "STT_CBL_BORD": ""
   },
   {
@@ -67488,6 +69000,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI21127",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI21128",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI21128",
     "STT_CBL_BORD": ""
   },
@@ -67504,7 +69024,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI3U101",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI3U102",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U102",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U103",
     "STT_CBL_BORD": ""
   },
   {
@@ -67516,7 +69048,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI3U104",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI3U105",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U105",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U106",
     "STT_CBL_BORD": ""
   },
   {
@@ -67528,11 +69072,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI3U107",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U108",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI3U108",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-MPI3U109",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U109",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI3U110",
     "STT_CBL_BORD": ""
   },
   {
@@ -67952,7 +69512,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI5V201",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI5V202",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V202",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V203",
     "STT_CBL_BORD": ""
   },
   {
@@ -67976,7 +69548,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI5V207",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI5V208",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V208",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V209",
     "STT_CBL_BORD": ""
   },
   {
@@ -67988,6 +69572,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI5V210",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V211",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI5V211",
     "STT_CBL_BORD": ""
   },
@@ -67996,7 +69588,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-MPI5V212",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-MPI5V213",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V213",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V214",
     "STT_CBL_BORD": ""
   },
   {
@@ -68013,6 +69617,14 @@
   },
   {
     "CBL": "E35-C-MPI5V221",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V221",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-MPI5V222",
     "STT_CBL_BORD": ""
   },
   {
@@ -68208,6 +69820,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NC600011",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NC600012",
     "STT_CBL_BORD": ""
   },
@@ -68320,6 +69936,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NC600061",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NC600062",
     "STT_CBL_BORD": ""
   },
@@ -68336,6 +69956,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NC600066",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NC600068",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NC600068",
     "STT_CBL_BORD": ""
   },
@@ -68344,7 +69972,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NC600070",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NC600072",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NC600072",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NC600074",
     "STT_CBL_BORD": ""
   },
   {
@@ -68397,6 +70037,10 @@
   },
   {
     "CBL": "E35-C-NC600106",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NC600107",
     "STT_CBL_BORD": ""
   },
   {
@@ -68721,6 +70365,10 @@
   },
   {
     "CBL": "E35-C-NE600009",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NE600011",
     "STT_CBL_BORD": ""
   },
   {
@@ -69132,6 +70780,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NG600003",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NG600004",
     "STT_CBL_BORD": ""
   },
@@ -69464,6 +71116,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NL600001",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NL600002",
     "STT_CBL_BORD": ""
   },
@@ -69512,6 +71168,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NL600101",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NL600102",
     "STT_CBL_BORD": ""
   },
@@ -69537,6 +71197,10 @@
   },
   {
     "CBL": "E35-C-NL600109",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NL600201",
     "STT_CBL_BORD": ""
   },
   {
@@ -69573,6 +71237,10 @@
   },
   {
     "CBL": "E35-C-NL600209",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NL600211",
     "STT_CBL_BORD": ""
   },
   {
@@ -70036,7 +71704,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-NZ600050",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-NZ600051",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NZ600052",
     "STT_CBL_BORD": ""
   },
   {
@@ -70101,6 +71777,10 @@
   },
   {
     "CBL": "E35-C-NZ600073",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-NZ600075",
     "STT_CBL_BORD": ""
   },
   {
@@ -76168,6 +77848,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-SNCRJ06B",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-SNCRJ07A",
     "STT_CBL_BORD": ""
   },
@@ -76621,6 +78305,10 @@
   },
   {
     "CBL": "E35-C-TA600118",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TA600119",
     "STT_CBL_BORD": ""
   },
   {
@@ -77100,6 +78788,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-TB600125",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-TB600126",
     "STT_CBL_BORD": ""
   },
@@ -77309,6 +79001,10 @@
   },
   {
     "CBL": "E35-C-TCC2259Z",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TCC2262Z",
     "STT_CBL_BORD": ""
   },
   {
@@ -77709,7 +79405,7 @@
   },
   {
     "CBL": "E35-C-TGPB6090",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-TGPB6092",
@@ -77833,7 +79529,7 @@
   },
   {
     "CBL": "E35-C-TGPE6091",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-TI600005",
@@ -78100,6 +79796,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-TI600109",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600110",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-TI600110",
     "STT_CBL_BORD": ""
   },
@@ -78260,7 +79964,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-TI600149",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-TI600150",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600150",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600151",
     "STT_CBL_BORD": ""
   },
   {
@@ -78272,11 +79988,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-TI600152",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600153",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-TI600153",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-TI600154",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600154",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TI600155",
     "STT_CBL_BORD": ""
   },
   {
@@ -78601,6 +80333,10 @@
   },
   {
     "CBL": "E35-C-TJT5826L",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-TJT5827L",
     "STT_CBL_BORD": ""
   },
   {
@@ -81197,31 +82933,31 @@
   },
   {
     "CBL": "E35-C-USHM01",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM02",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM03",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM04",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM05",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM06",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-USHM07",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-UTA0101",
@@ -82016,11 +83752,23 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-VEE6784A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-VEE6784B",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-VEE6784B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-VEE6784B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-VEE6785A",
     "STT_CBL_BORD": ""
   },
   {
@@ -82040,6 +83788,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-VEE6785B",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-VEE6786A",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-VEE6786A",
     "STT_CBL_BORD": ""
   },
@@ -82056,11 +83812,23 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-VEE6786B",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-VEE6787A",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-VEE6787A",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-VEE6787A",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-VEE6787B",
     "STT_CBL_BORD": ""
   },
   {
@@ -82564,6 +84332,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600009",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600010",
     "STT_CBL_BORD": ""
   },
@@ -82580,7 +84352,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600015",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600016",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600016",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600017",
     "STT_CBL_BORD": ""
   },
   {
@@ -82592,11 +84376,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600018",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600019",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600019",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-WK600020",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600020",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600021",
     "STT_CBL_BORD": ""
   },
   {
@@ -82612,7 +84412,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600023",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600024",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600027",
     "STT_CBL_BORD": ""
   },
   {
@@ -82624,7 +84432,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600028",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600030",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600030",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600031",
     "STT_CBL_BORD": ""
   },
   {
@@ -82636,7 +84456,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600032",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600033",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600033",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600034",
     "STT_CBL_BORD": ""
   },
   {
@@ -82652,7 +84484,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600036",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600037",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600038",
     "STT_CBL_BORD": ""
   },
   {
@@ -82664,7 +84504,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600039",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600040",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600040",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600043",
     "STT_CBL_BORD": ""
   },
   {
@@ -82676,7 +84528,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600044",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600045",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600045",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600046",
     "STT_CBL_BORD": ""
   },
   {
@@ -82688,7 +84552,19 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600048",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600049",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600049",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600050",
     "STT_CBL_BORD": ""
   },
   {
@@ -82700,11 +84576,27 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600051",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600052",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600052",
     "STT_CBL_BORD": ""
   },
   {
     "CBL": "E35-C-WK600053",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600053",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600054",
     "STT_CBL_BORD": ""
   },
   {
@@ -82717,6 +84609,14 @@
   },
   {
     "CBL": "E35-C-WK600060",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600060",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600061",
     "STT_CBL_BORD": ""
   },
   {
@@ -82800,7 +84700,15 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600081",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600082",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600083",
     "STT_CBL_BORD": ""
   },
   {
@@ -82860,6 +84768,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600096",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600097",
     "STT_CBL_BORD": ""
   },
@@ -82877,6 +84789,10 @@
   },
   {
     "CBL": "E35-C-WK600104",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600105",
     "STT_CBL_BORD": ""
   },
   {
@@ -83236,6 +85152,14 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK600212",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600213",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK600213",
     "STT_CBL_BORD": ""
   },
@@ -83425,6 +85349,10 @@
   },
   {
     "CBL": "E35-C-WK600258",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK600259",
     "STT_CBL_BORD": ""
   },
   {
@@ -84092,6 +86020,10 @@
     "STT_CBL_BORD": ""
   },
   {
+    "CBL": "E35-C-WK602013",
+    "STT_CBL_BORD": ""
+  },
+  {
     "CBL": "E35-C-WK602014",
     "STT_CBL_BORD": ""
   },
@@ -84145,6 +86077,10 @@
   },
   {
     "CBL": "E35-C-WK602027",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK602028",
     "STT_CBL_BORD": ""
   },
   {
@@ -84553,11 +86489,11 @@
   },
   {
     "CBL": "E35-C-WK602137",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602138",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602139",
@@ -84681,11 +86617,11 @@
   },
   {
     "CBL": "E35-C-WK602169",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602170",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602171",
@@ -84693,11 +86629,11 @@
   },
   {
     "CBL": "E35-C-WK602172",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602173",
-    "STT_CBL_BORD": ""
+    "STT_CBL_BORD": "T"
   },
   {
     "CBL": "E35-C-WK602174",
@@ -85493,6 +87429,10 @@
   },
   {
     "CBL": "E35-C-WK602364",
+    "STT_CBL_BORD": ""
+  },
+  {
+    "CBL": "E35-C-WK602365",
     "STT_CBL_BORD": ""
   },
   {
